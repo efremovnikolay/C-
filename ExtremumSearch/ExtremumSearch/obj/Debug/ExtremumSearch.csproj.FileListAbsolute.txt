@@ -1,0 +1,6 @@
+C:\Users\Kolyan1999\Desktop\ТУСУР\3 семестр\ООПФТД\1\ExtremumSearch\ExtremumSearch\bin\Debug\ExtremumSearch.exe.config
+C:\Users\Kolyan1999\Desktop\ТУСУР\3 семестр\ООПФТД\1\ExtremumSearch\ExtremumSearch\bin\Debug\ExtremumSearch.exe
+C:\Users\Kolyan1999\Desktop\ТУСУР\3 семестр\ООПФТД\1\ExtremumSearch\ExtremumSearch\bin\Debug\ExtremumSearch.pdb
+C:\Users\Kolyan1999\Desktop\ТУСУР\3 семестр\ООПФТД\1\ExtremumSearch\ExtremumSearch\obj\Debug\ExtremumSearch.csprojResolveAssemblyReference.cache
+C:\Users\Kolyan1999\Desktop\ТУСУР\3 семестр\ООПФТД\1\ExtremumSearch\ExtremumSearch\obj\Debug\ExtremumSearch.exe
+C:\Users\Kolyan1999\Desktop\ТУСУР\3 семестр\ООПФТД\1\ExtremumSearch\ExtremumSearch\obj\Debug\ExtremumSearch.pdb
